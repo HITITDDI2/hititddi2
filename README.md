@@ -16,8 +16,6 @@ Aaaaaaaaaaaaa
 
 # Modeller:
 
-# Lisans:
-
 # İletişim:
 
 # Kaynaklar:
