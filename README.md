@@ -17,16 +17,7 @@ Bu proje, HİTİTDDİ2 tarafından geliştirilen Yapay zeka destekli metin espit
 - *Veri Mühendisi*: Senanur Okuducu
 
 
-# Projenin Amacı:
+## Projenin Amacı:
 Bu projenin amacı, yapay zeka tarafından üretilen makale özetlerini yüksek doğruluk oranı ile tespit etmektir. 
 Giderek dijitalleşen dünyamızda, AI tarafından üretilen içeriklerin doğru bir şekilde tanınması, bilgi güvenilirliği ve doğruluğu açısından büyük önem taşımaktadır. 
 
-# Kurulum:
-
-# Kullanım:
-
-# Özgünlük:
-
-# Modeller:
-
-# Kaynaklar:
