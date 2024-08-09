@@ -63,6 +63,6 @@ python src/train.py
 Sonuçların Görselleştirilmesi:
 
 Modellerin performansını karşılaştırmak ve sonuçları analiz etmek için grafikler oluşturulur ve results/ klasörüne kaydedilir.
-
+```
 python src/evaluate.py
-
+```
