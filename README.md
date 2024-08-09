@@ -47,7 +47,9 @@ Projenin çalışması için aşağıdaki gereksinimlerin karşılanması gerekm
 
 Python 3.x
 Gerekli kütüphanelerin kurulumu:
+```
 pip install -r requirements.txt
+```
 
 Projenin Çalıştırılması
 Verilerin Yüklenmesi ve Ön İşleme:
@@ -57,11 +59,11 @@ Modellerin Eğitilmesi ve Değerlendirilmesi:
 
 BERT, DistilBERT ve RoBERTa modelleri eğitilir ve doğrulama veri setleri üzerinde değerlendirilir.
 Sonuçlar, results/results.json dosyasında saklanır.
-
+```
 python src/train.py
-
+```
 Sonuçların Görselleştirilmesi:
-
+```
 Modellerin performansını karşılaştırmak ve sonuçları analiz etmek için grafikler oluşturulur ve results/ klasörüne kaydedilir.
 ```
 python src/evaluate.py
