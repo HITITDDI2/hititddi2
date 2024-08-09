@@ -2,7 +2,9 @@
   <img src="https://github.com/HITITDDI2/hititddi2./blob/main/hititddi2-logo.png?raw=true" width="400" alt="logo">
 </p>
 
-# Giriş:
+
+# Yapay Zeka Destekli Metin Tespit Projesi
+##  Giriş:
 ### Takım Hakkında:
 
 Bu proje, HİTİTDDİ2 tarafından geliştirilen Yapay zeka destekli metin espiti adlı bir uygulamadır. Ekibimiz, haber siteleri ve medya, akademik çalışmalar, ve sosyal medya platformlarında yanlış bilgilendirme ve manipülatif içerik tespitini sağlamak için bu projeyi oluşturmuştur.
