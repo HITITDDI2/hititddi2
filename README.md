@@ -27,6 +27,4 @@ Giderek dijitalleşen dünyamızda, AI tarafından üretilen içeriklerin doğru
 
 # Modeller:
 
-# İletişim:
-
 # Kaynaklar:
