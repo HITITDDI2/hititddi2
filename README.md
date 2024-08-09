@@ -4,8 +4,6 @@
 
 # Giriş:
 
-Aaaaaaaaaaaaa
-
 # Projenin Amacı:
 
 # Kurulum:
