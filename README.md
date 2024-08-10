@@ -68,3 +68,4 @@ Modellerin performansını karşılaştırmak ve sonuçları analiz etmek için 
 ```
 python src/evaluate.py
 ```
+#Acikhack2024
